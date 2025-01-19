@@ -9,7 +9,6 @@ A full-stack photo gallery website. My first full-stack web development project.
   - Portrait Photography
   - Sports Photography
   - Travel Photography
-  - Event Photography
 - Lightbox image viewing with zoom capabilities
 - Image lazy loading for optimal performance
 - Thumbnail generation and management
@@ -31,8 +30,6 @@ A full-stack photo gallery website. My first full-stack web development project.
 - Site Settings:
   - Logo management
   - Contact information
-  - Social media links
-  - SEO settings
 
 ### 🎨 Frontend Features
 - Responsive Design:
@@ -47,7 +44,6 @@ A full-stack photo gallery website. My first full-stack web development project.
   - Smooth scrolling animations
   - Image hover effects
   - Category filtering
-  - Search functionality
 
 ### 🎯 Gallery Categories
 - Organized category system
@@ -55,20 +51,13 @@ A full-stack photo gallery website. My first full-stack web development project.
   - Custom layouts
   - Unique descriptions
   - Category thumbnails
-- Filter and sort options:
-  - Date
-  - Popularity
-  - Custom ordering
+
 
 ### 📱 User Experience
 - Fast loading times
 - Intuitive navigation
 - Search functionality
 - Social media sharing
-- Contact form with:
-  - Form validation
-  - CAPTCHA protection
-  - Email notifications
 
 ### 🔧 Technical Features
 - SEO Optimized:
@@ -91,7 +80,6 @@ A full-stack photo gallery website. My first full-stack web development project.
 - Backup system
 - Error logging
 - Analytics integration
-- Newsletter subscription system
 - Custom 404 error page
 - Maintenance mode option
 
